@@ -27,7 +27,7 @@ const matcher: MatcherType  = /eth_getBalance/;
 logger(matcher); // or without arguments logger() 
 ```
 here what you see if you run `npx hardhat test` in [Lock hardhat example](https://hardhat.org/hardhat-runner/docs/getting-started#quick-start)
-```json
+```
 ...
 {
   method: 'eth_getBalance',
