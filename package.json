@@ -1,6 +1,6 @@
 {
   "name": "hardhat-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Show transaction params befor hardhat send transaction to evm",
   "repository": "https://github.com/kruglay/hardhat-logger",
   "keywords": [
